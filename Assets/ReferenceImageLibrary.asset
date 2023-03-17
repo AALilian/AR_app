@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5608246731591889872
+  m_GuidHigh: 17930900064465837474
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5199889501318101547
+      m_GuidHigh: 14086716062280482237
+    m_SerializedTextureGuid:
+      m_GuidLow: 7526675669816499579
+      m_GuidHigh: 9182486145144477033
+    m_Size: {x: 0.11, y: 0.18250471}
+    m_SpecifySize: 1
+    m_Name: ref_card2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4851051183902845972
+      m_GuidHigh: 11305947329867859383
+    m_SerializedTextureGuid:
+      m_GuidLow: 5549790944272021969
+      m_GuidHigh: 11380233139901451963
+    m_Size: {x: 0.05944931, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: ref_card
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4858135830819127017
+      m_GuidHigh: 8887764377859862704
+    m_SerializedTextureGuid:
+      m_GuidLow: 1469576412927118920
+      m_GuidHigh: 18233752933038571819
+    m_Size: {x: 0.11, y: 0.1835943}
+    m_SpecifySize: 1
+    m_Name: ref_card3
+    m_Texture: {fileID: 0}
